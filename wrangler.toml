@@ -10,7 +10,7 @@
 #   Entry: worker.js  (the default white-label proxy; uses service-worker syntax)
 # ─────────────────────────────────────────────────────────────────────────────
 
-name = "white-label-api"
+name = "white-label"
 main = "worker.js"
 compatibility_date = "2024-09-23"
 
